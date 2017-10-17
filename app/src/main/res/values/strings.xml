@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Get Sources</string>
+    <string-array name="url_head">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
